@@ -1,0 +1,8 @@
+[1] Add To qb-core/shared/item.lua
+
+-- UnKnownDevelopment NP-Inspired Sprays --
+     ["cerberuspaint"]       = {["name"] = "cerberuspaint",         ["label"] = "Cerberus Spray Can",	["weight"] = 0, ["type"] = "item",  ["image"] = "spraycan.png",            ["unique"] = true,  ["useable"] = true, ["shouldClose"] = true, ["description"] = "model: np_sprays_cerberus"},
+     ["cgpaint"]             = {["name"] = "cgpaint",               ["label"] = "CG Spray Can",	        ["weight"] = 0, ["type"] = "item",  ["image"] = "cg_spraycan.png", 		   ["unique"] = true,  ["useable"] = true, ["shouldClose"] = true, ["description"] = "model: np_sprays_cg"},
+     ["ballaspaint"]         = {["name"] = "ballaspaint",           ["label"] = "Ballas Spray Can",	    ["weight"] = 0, ["type"] = "item",  ["image"] = "ballas_spraycan.png", 	   ["unique"] = true,  ["useable"] = true, ["shouldClose"] = true, ["description"] = "model: np_sprays_ballas"},
+
+[2] ADD IMGS TO qb-inventory/html/images
